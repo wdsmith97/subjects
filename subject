@@ -1,43 +1,43 @@
 [
     {
-        "id": 1,
-        "subject": "English",
-        "level": "Entry",
+        "id":1,
+        "subject":"English",
+        "level":"Entry",
         "crn":"12345",
         "location":"Athens, Georgia",
     }
     {
-        "id": 2,
-        "subject": "English",
-        "level": "Advanced",
+        "id":2,
+        "subject":"English",
+        "level":"Advanced",
         "crn":"12346",
         "location":"Athens, Georgia",
     }
     {
-        "id": 3,
-        "subject": "Calculus",
-        "level": "Entry",
+        "id":3,
+        "subject":"Calculus",
+        "level":"Entry",
         "crn":"22345",
         "location":"Athens, Georgia",
     }
     {
         "id": 4,
-        "subject": "Calculus",
-        "level": "Advanced",
+        "subject":"Calculus",
+        "level":"Advanced",
         "crn":"23345",
         "location":"Athens, Georgia",
     }
     {
         "id": 5,
-        "subject": "Spanish",
-        "level": "Entry",
+        "subject":"Spanish",
+        "level":"Entry",
         "crn":"32345",
         "location":"Athens, Georgia",
     }
     {
         "id": 6,
-        "subject": "Spanish",
-        "level": "Advanced",
+        "subject":"Spanish",
+        "level":"Advanced",
         "crn":"33345",
         "location":"Athens, Georgia",
     }
